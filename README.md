@@ -200,8 +200,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Author
 
-**Athorid Bagas Raditya Hadidharma**
-Final-year Informatics student, Universitas Gunadarma · Data Engineer Intern @ Devoteam (Google Cloud Partner)
+**Doraxile**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atdb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atdb)
 [![GitHub](https://img.shields.io/badge/GitHub-Doraxale-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Doraxile)
